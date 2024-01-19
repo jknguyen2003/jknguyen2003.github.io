@@ -1,4 +1,14 @@
-E10: Reflect on Javascript 1 Essay
+---
+layout: essay
+type: essay
+title: "Javascript: Anything is better than C"
+# All dates must be YYYY-MM-DD format!
+date: 2024-01-18
+published: true
+labels:
+  - Software Engineering
+  - Learning
+---
   My first thought about Javascript is that it is remarkably similar to regular java except a lot
 easier to code because you don't have to use types like int or string. Because regualr java was 
 one of the first languages in high school, I'd say that it is like my mother language. 
