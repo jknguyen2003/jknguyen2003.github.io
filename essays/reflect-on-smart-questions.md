@@ -10,7 +10,7 @@ labels:
   - Learning
   - Smart Questions
 ---
-<img width="1000px" class="rounded float-start pe-4" src="../img/stack_overflow_bad.png">
+<img width="500px" class="rounded float-start pe-4" src="../img/stack_overflow_bad.png">
 
 When I was growing up in school, I remember the teacher would always say, "Don't be afraid to ask questions", or "There are no such things as stupid questions". That however was not entirely true. If you cannot effectively communicate your question to the person answering your question, you will not get an effective answer back. If you ask a question completely unrelated to the topic of the class, you will indeed look stupid. Those are just a few examples of what a stupid question might look like. Now let me show you an example of a stupid question that I myself made back during high school. 
 
