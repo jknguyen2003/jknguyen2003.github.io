@@ -22,7 +22,8 @@ change. Especially the arrow notation, which I guess would make functions one li
 read potentially, but I prefer the classic way to do it. 
   Concerning the WODs, I do think they're useful, but only doing one a week I feel like is not 
 sufficient practice. Hopefully, there's a resource to do many WOD's in a row because the WOD's do
-not take more than a couple of minutes to complete for the most part. 
+not take more than a couple of minutes to complete for the most part. (Note from me from the future,
+the WODS do get harder and there are TA WODS D:)
   For this class, I really enjoy the aspect of knowing that what I'm learning right now will be
 relevant to be in the future for my job because I'm looking for a job in software engineering. 
 Hopefully, I get to learn all the skills I need to be succesful and to stand out from other 
