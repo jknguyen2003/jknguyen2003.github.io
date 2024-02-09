@@ -10,7 +10,7 @@ labels:
   - Coding Standards
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/code-quality-standard.jpg">
+<img width="1000px" class="rounded float-start pe-4" src="../img/code-quality-standard.jpg">
 
 # Who cares right?
 Have you ever watched a tv show, and halfway through the series, the show just becomes something completely unrecognizable to when the show first started? It's almost like you're watching a completely different show. A good example of this would be the show Lost, which is about a group of plane crash survivors who are stranded on a mysterious island. At first, it's just a survival show that shows the backstories of it's cast, but then eventually devolves into time travel and other nonsense. The show is awful after the first 2 seasons. This is what it's like to have no coding standards. If someone likes to code with the open curly bracket on the same line and another person likes to put it on a new line, while the code itself might be the same, the code looks all over the place. It looks very unprofessional and makes it hard to read for the next person. That is the reason why there is a standardized way to write code. 
