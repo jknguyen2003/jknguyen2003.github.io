@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Bootstrap and UI Frameworks: Making Web Design Less Ugly"
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-022
+date: 2024-02-22
 published: true
 labels:
   - Software Engineering
@@ -11,13 +11,13 @@ labels:
   - HTML/CSS
 ---
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/code-quality-standard.jpg">
-
+<img width="1000px" class="rounded float-start pe-4" src="../img/ui.jpg">
+ 
 # Who cares right?
-Have you ever watched a tv show, and halfway through the series, the show just becomes something completely unrecognizable to when the show first started? It's almost like you're watching a completely different show. A good example of this would be the show Lost, which is about a group of plane crash survivors who are stranded on a mysterious island. At first, it's just a survival show that shows the backstories of it's cast, but then eventually devolves into time travel and other nonsense. The show is awful after the first 2 seasons. This is what it's like to have no coding standards. If someone likes to code with the open curly bracket on the same line and another person likes to put it on a new line, while the code itself might be the same, the code looks all over the place. It looks very unprofessional and makes it hard to read for the next person. That is the reason why there is a standardized way to write code. 
+Have you ever opened a web page and thought "Wow! This looks like it was made 20 years ago!" Hallmark signs of an old website are super bright colors, the use of 10 different fonts on the same webpage, and just overall very messy. Nowadays, modern websites try to look sleek and simple. Minimalistic design is the new trend. This is because back in the day, the only way to keep someone on your webpage was to attract their attention and keep them there. You couldn't pay google to make your webpage the top search like you can now. While that may or may not have worked back in the day, it defintely does not work now. All you'll be doing with an ugly website is give people in a dark room a headache. 
 
 # Why it matters
-One great thing about coding standards is the fact that it helps teach you how to code! Coding standards teaches new coders syntax and framework and what "proper" code should look like. Eventually, new coders will internalize these conventions without having to rely on ESLint allowing them to have a deeper understanding of the coding language and the many nuances that come with it. 
+So why does UI framework matter? It's essentially a preset option that allows your website to look professional and modern. It will make your website look more consistent making the user experience smoother and more predictable, saves developers time since they don't have to manage every little aspect of CSS, and many UI frameworks allow for responsive design which allows websites to be viewed on any device of any size. If you want to work professionally on web design, every project will require some use of UI frameworks! Nobody uses raw HTML and CSS in this day and age. 
 
 # What do I think
-In my personal experience with ESLint and IntelliJ, I find that it's both painful and useful. Initially, some of the rules seemed a little silly. Why do I need a new line at the end of the code? Why is it marking my variable as unused when I didn't get a chance to implement it yet! I'm not ready!!! However, as I got more used to ESLint, I just ignored the silly errors that aren't important at the moment and focused on my code. I no longer had to look at the errors because I already knew what coding standards look like. ESLint is like a set of training wheels that you eventually take off when you master how to ride. 
+In my personal experience with Bootstrap, I think it's a very convenient tool. When I first started using HTML and CSS, it's really annoying to have to manage all the margins and padding of every single part of the website. Additionally, everything just looks really funky and ugly. It's hard to make a nice website, it's just natural instinct to just want to add as many different things as possible to a website, which in turn just makes the website worse in my opinion. All in all though, I don't really see any downsides to UI frameworks, and I believe it will be very beneficial for my professional career in the future. 
