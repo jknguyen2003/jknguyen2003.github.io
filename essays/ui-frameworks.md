@@ -3,11 +3,12 @@ layout: essay
 type: essay
 title: "Bootstrap and UI Frameworks: Making Web Design Less Ugly"
 # All dates must be YYYY-MM-DD format!
-date: 2024-02-08
+date: 2024-02-022
 published: true
 labels:
   - Software Engineering
-  - Coding Standards
+  - UI Frameworks
+  - HTML/CSS
 ---
 
 <img width="1000px" class="rounded float-start pe-4" src="../img/code-quality-standard.jpg">
