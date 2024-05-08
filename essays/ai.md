@@ -13,7 +13,8 @@ labels:
 <img width="500px" class="rounded float-start pe-4" src="../img/ai.jpg">
 
 ### I. Introduction
-
+  "Hey have you heard of ChatGPT?", those were the words that would change my college career forever. I was in the living room with my cousin who was tutoring me for Calculus 3 at the time. He casually brought up the topic of ChatGPT which I had never heard of before at the time. In that moment, I didn't really think much of it. I still didn't even really understand what it was. When he pulled it up and showed me the stuff that you can do with AI, I didn't really see the point of it. "This just looks like a google search with more steps.", I thought to myself. I figured the advantage of it was that it would compile all the information you wanted into one location so it was easier to process. The reason I thought this was because at the time, I didn't realize how powerful AI was. For me, it was like a boomer listening to heavy metal for the first time. I didn't understand it and I was stuck in the old ways. 
+    Later that day, I went back to ChatGPT and tried some more prompts. I put in some of my homework problems and lo and behold they were solved. My mind was blown. It was like seeing color for the first time on the television (at least that's how I imagine it would be like). My whole world was turned upside down as I realized the amount of time and effort that would be saved with this new thing called ChatGPT. 
 
 ### II. Personal Experience with AI:
 I have used AI in class this semester in the following areas:
@@ -52,15 +53,15 @@ None that I can think of!
   Secondly, AI makes a lot of assignments and online exams trivial. This reduces the stress when a test rolls around because you know you can just ChatGPT your way to a good grade most of the time resulting in the amount of learning you're doing by a significant amount. 
 
 ### IV. Practical Applications:
-
+  Most useful applications of AI would be learning. ChatGPT is a really good tool for learning complex topics since you can ask it very specific questions and it will give you a thorough breakdown on it. Another useful application would be to do a simple task that doesn't take any skill or thinking but would take a lot of time for a human. An example of this could possibly be changing all instances of a word in an essay to another. If you're writing a story perhaps and decide that your MC's name isn't that fitting. Or if you wanted to capitalize all instances of a word. These are just some examples. 
 
 ### V. Challenges and Opportunities:
-
+  The problem with ChatGPT is that it's producing lazy students (myself included) who don't want to put in any effort into learning. Why learn when I can just ask the bot to do it for me for free in a fraction of the time? When presented with an easier path, what sane person wouldn't take it? It takes a very disciplined person who thinks long term to see how doing things by yourself is a much better way to do things. Which is why with ChatGPT around, if you are able to avoid the temptation of asking it for answers, you will get very far in life. 
 
 ### VI. Comparative Analysis:
 
 
 ### VII. Future Considerations:
-
+  Every day, AI just gets better and better. As it is right now, it still has a lot of flaws. It can't answer every question perfectly and it struggles with math problems. However, with the speed at which AI is progressing, in 10 years, I could see AI being close to perfect. I wouldn't be surprised if AI takes over most jobs soon, as they are already making AI that can make better AI. With so much being automated in the future, I can only hope that the government will recognize that and makes it so that humans simply don't have to work anymore. Our AI overlords can do everything for us and we can sit back at home and relax. Of course this won't happen anytime soon but in 100 years, I can gurantee that the world will be unrecognizable from the one we know today.
 
 ### VIII. Conclusion:
