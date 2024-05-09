@@ -10,7 +10,7 @@ labels:
   - Design Patterns
 ---
 
-<img width="1000px" class="rounded float-start pe-4" src="../img/code-quality-standard.jpg">
+<img width="1000px" class="rounded float-start pe-4" src="../img/design-patterns.png">
 
 In the intricate world of software development, crafting code often resembles the creation of a tapestry, where threads of logic and functionality are woven together to form a cohesive whole. Just as skilled artisans employ various patterns and techniques to create breathtaking tapestries, software engineers utilize design patterns to craft elegant and efficient solutions to common problems in code.
 
