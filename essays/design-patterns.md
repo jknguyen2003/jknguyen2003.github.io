@@ -1,14 +1,26 @@
-Title: Unraveling the Tapestry: Design Patterns in Code
+---
+layout: essay
+type: essay
+title: "Unraveling the Tapestry: Design Patterns in Code"
+# All dates must be YYYY-MM-DD format!
+date: 2024-04-25
+published: true
+labels:
+  - Software Engineering
+  - Design Patterns
+---
+
+<img width="1000px" class="rounded float-start pe-4" src="../img/code-quality-standard.jpg">
 
 In the intricate world of software development, crafting code often resembles the creation of a tapestry, where threads of logic and functionality are woven together to form a cohesive whole. Just as skilled artisans employ various patterns and techniques to create breathtaking tapestries, software engineers utilize design patterns to craft elegant and efficient solutions to common problems in code.
 
-Understanding the Weave: What are Design Patterns?
+# Understanding the Weave: What are Design Patterns?
 
 Imagine walking into a room filled with tapestries from different cultures and eras. Each tapestry tells a unique story and employs distinct patterns and motifs. Similarly, in software engineering, design patterns are recurring solutions to common problems encountered during the development process. These patterns provide a blueprint for structuring code in a way that promotes maintainability, scalability, and reusability.
 
 Just as certain weaving techniques are used to create specific visual effects in tapestries, design patterns offer tried-and-tested approaches for organizing code to achieve desired outcomes. From creational patterns like the Factory Method, which encapsulates object creation logic, to structural patterns like the Adapter, which facilitates the integration of incompatible interfaces, and behavioral patterns like the Observer, which enables objects to subscribe to changes in state, each design pattern serves a distinct purpose in the software development process.
 
-The Artistry of Implementation: How I Have Used Them in My Code
+# The Artistry of Implementation: How I Have Used Them in My Code
 
 In my own coding endeavors, I've often found myself drawing inspiration from the rich tapestry of design patterns to solve complex problems and streamline development. For instance, when tasked with designing a system for handling user authentication, I applied the Singleton pattern to ensure that only one instance of the authentication manager existed throughout the application, maintaining a centralized point of access while conserving resources.
 
