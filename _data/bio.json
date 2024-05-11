@@ -9,7 +9,7 @@
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2025.",
     "location": { "postalCode": "96816", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "jknguyen2003", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "jknguyen2003", "url": "https://github.com/jknguyen2003" },
       { "network": "linkedin", "username": "Jason Nguyen", "url": "https://www.linkedin.com/in/jason-nguyen-63299b2a9/" },
     ]
   },
@@ -23,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python"]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Python", "HTML", "React"]
     },
     {
       "name": "Toolsets/OS",
@@ -33,7 +33,7 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2025)",
+      "area": "Computer Science (expected Fall, 2026)",
       "studyType": "B.S.",
       "startDate": "2021",
       "endDate": "Present",
